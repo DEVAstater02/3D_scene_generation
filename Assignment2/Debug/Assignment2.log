@@ -1,0 +1,10 @@
+﻿  assignment2.c
+E:\BITS\2-2\IS F311\OpenGL Projects\Assignment2\Assignment2\assignment2.c(353,22): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\BITS\2-2\IS F311\OpenGL Projects\Assignment2\Assignment2\assignment2.c(356,23): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\BITS\2-2\IS F311\OpenGL Projects\Assignment2\Assignment2\assignment2.c(359,24): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\BITS\2-2\IS F311\OpenGL Projects\Assignment2\Assignment2\assignment2.c(362,20): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\BITS\2-2\IS F311\OpenGL Projects\Assignment2\Assignment2\assignment2.c(365,21): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\BITS\2-2\IS F311\OpenGL Projects\Assignment2\Assignment2\assignment2.c(368,20): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\BITS\2-2\IS F311\OpenGL Projects\Assignment2\Assignment2\assignment2.c(371,22): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\BITS\2-2\IS F311\OpenGL Projects\Assignment2\Assignment2\assignment2.c(374,21): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  Assignment2.vcxproj -> E:\BITS\2-2\IS F311\OpenGL Projects\Assignment2\Debug\Assignment2.exe
